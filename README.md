@@ -11,6 +11,7 @@ I Design and develop iPhone and iPad apps.
 
 <br>
 Technologies I have used and worked on:
+
 ## Languages: 
 - SWIFT
 - Objective-C
