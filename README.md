@@ -4,11 +4,6 @@
 ## I'm an iOS App Developer !!
 I Design and develop iPhone and iPad apps. 
 
-- 🌱 I’m currently learning SWIFTUI, IoT, MQTT 🤣
-- 👯 I’m also into Audio Production Coding
-- 🥅 2021 Goals: Contribute more to IoT's Open Source projects
-- ⚡ Fun fact: I produce EDM Music
-
 <br>
 Technologies I have used and worked on:
 
