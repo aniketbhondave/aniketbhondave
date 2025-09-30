@@ -37,13 +37,14 @@ Technologies I have used and worked on:
 
 ## CI/CD :
 - Github
+- Github Actions
 - Gitlab
 - Jenkins
 - Mantis BT
 - Firebase Crashalytics
 
 ## Others :
-- CoreLocations , CoreAnimations , Arduino IDE, Flutter , IoT, Firebase , cocoapods
+- CoreLocations , MDM , Bluetooth , CoreAnimations , Arduino IDE , Flutter , IoT , Firebase , cocoapods
 
 ### Connect with me:
 [<img align="left" alt="https://aniketbhondave.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
